@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is FPHaikal and I'm a Frontend Developer from Indonesia</h2>
+<div align="center">
+  <img height="200" src="https://media.tenor.com/nZ4vYJ0JOQcAAAAM/gita-gita-jkt48.gif"  />
+</div>
+
+###
+
+<h1 align="center">Hi Everyone👋!</h1>
+
+###
+
+<p align="center">My name is FPHaikal and I'm a Frontend Developer from Indonesia</p>
 
 ###
 
@@ -70,5 +80,29 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
 </div>
+
+###
+
+<h2 align="center">Github Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fphaikal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=fphaikal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fphaikal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=fphaikal&title=MultipleLang,Repositories,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="fphaikal"/>
+</div>
+
+###
+
+###
+
+<img src="https://raw.githubusercontent.com/fphaikal/fphaikal/output/snake.svg" alt="Snake animation" />
 
 ###
