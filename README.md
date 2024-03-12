@@ -100,9 +100,3 @@
 </div>
 
 ###
-
-###
-
-<img src="https://raw.githubusercontent.com/fphaikal/fphaikal/output/snake.svg" alt="Snake animation" />
-
-###
