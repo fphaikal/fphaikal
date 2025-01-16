@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.tenor.com/nZ4vYJ0JOQcAAAAM/gita-gita-jkt48.gif"  />
-</div>
-
 ###
 
 <h1 align="center">Hi Everyone👋!</h1>
